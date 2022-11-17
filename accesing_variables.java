@@ -1,4 +1,3 @@
-package myfirstjava;
 class acess
             {
                 int x;
