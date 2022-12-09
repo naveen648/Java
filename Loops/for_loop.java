@@ -1,4 +1,4 @@
-public class loops
+public class for_loops
 {
   public static void main(String[] args)
   {
