@@ -3,8 +3,6 @@ public class CheckPrimeNumber
 {
     public static void main(String[] args)
     {
-        for(;;)
-        {
         System.out.println("Enter the Number to check Prime or Non-Prime");
         try(Scanner sc=new Scanner(System.in))
         {
@@ -21,7 +19,6 @@ public class CheckPrimeNumber
         else
         {
             System.out.println(p+ " = Non-Prime No.");
-        }
         }
         }
     }
