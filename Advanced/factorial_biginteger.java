@@ -1,6 +1,5 @@
 import java.util.Scanner;
 import java.math.BigInteger;
-//import java.util.*;
 public class factorial_biginteger {
     public static BigInteger factorial(int a)
     {
