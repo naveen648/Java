@@ -8,7 +8,7 @@ class ConstructorClass{
 
 class Constructor{
     int x,y;
-    //if Constructor is declared then same syntax with class name and parameters should be written
+    //if Constructor is declared then same syntax with class name and parameters should be written inside Main class
     Constructor(int a,int b)
     {
         x=a;
