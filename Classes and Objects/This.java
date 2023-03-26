@@ -9,7 +9,7 @@ class ThisKeyword {
 }
 class A{
     int x,y;  
-    A(int x,int y)  //Overrides the scope of x and y values and no need to declare new variables
+    A(int x,int y)  //Overrides the scope of above x and y values
     {
         this.x=x;
         this.y=y;
