@@ -5,7 +5,7 @@ class User{
         name="Default";
     }
 }
-class Adder{
+class ConstructerAdder{
     public static void main(String args[]){
         Scanner ob = new Scanner(System.in);
         int t = ob.nextInt();
