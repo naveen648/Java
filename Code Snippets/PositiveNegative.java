@@ -4,7 +4,7 @@ class PositiveNegative{
   {
     Scanner sc=new Scanner(System.in);
     int n=sc.nextInt();
-    if(n<1)
+    if(n>1)
     {
       System.out.print("The number is positive.");
     }
@@ -12,5 +12,6 @@ class PositiveNegative{
     {
       System.out.print("The number is negative.");
     }
+    sc.close();
   }
 }
